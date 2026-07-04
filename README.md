@@ -25,6 +25,7 @@ You are to make changes only within `ingredient-hub` front-end application.
 
 ### Documentation and expectations:
 
+The solution is expected to be maintainable, scalable and have a good user experience.<br>
 If there's ambiguity on any of the requirements, write down in the `README.md` file what were the possible interpretations and which one you went with.<br>
 Similarly, if there are architectural decisions to be made, document the different options with their pros and cons, and explain why you made your final choice.
 
